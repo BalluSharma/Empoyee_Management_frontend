@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -15,3 +16,7 @@ If you are developing a production application, we recommend using TypeScript wi
 # Employee-Management-System
 Employee Management System is created using Reactjs and Spring Boot
 >>>>>>> 1dcd0b0ea8f9c65e0fb87901663e88fb7f91962c
+=======
+# Empoyee_Management_frontend
+Employee Management System is created using Reactjs and Spring Boot
+>>>>>>> cfacc5e1e2c49748349c83110a6591f0f40b034a
